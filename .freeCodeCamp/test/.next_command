@@ -95,3 +95,4 @@ git commit -m "prueba"
 git push origin tutorialuno
 git push origin tutorialuno
 git status
+git branch
