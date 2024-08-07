@@ -40,3 +40,4 @@ git switch primertutotial
 git switch primertutorial
 git status
 echo hello SQL
+psql --username=freecodecamp --dbname=postgres
