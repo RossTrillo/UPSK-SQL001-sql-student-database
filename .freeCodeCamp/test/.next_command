@@ -1659,3 +1659,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cp students.csv students_test.csv
 ./insert_data.sh
 MAJOR_ID=$($PSQL "SELECT major_id FROM majors WHERE major='$MAJOR'")
+./insert_data.sh
