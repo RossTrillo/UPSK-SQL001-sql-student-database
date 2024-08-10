@@ -1778,3 +1778,12 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git branch
 git status
 git add .
+git commit -m "Tutorial uno finalizado"
+git push
+git push --set-upstream origin primertutorial
+git remote -v
+git remote add myrepo https://github.com/RossTrillo/UPSK-SQL001-sql-student-database.git
+git remote -v
+git push myrepo primertutorial
+git status
+git add .
